@@ -27,7 +27,7 @@ The project was based on five CSV files containing relevant hotel and booking da
    
 5. **Website Pricing Strategy**: Hotels are selling rooms at the same price on their websites as on third-party platforms. Reducing prices on the hotel's own website could help avoid commission fees and increase direct bookings.
 
-   ![image 2](https://github.com/d-sutariya/AtliQ-Grands-Business-and-Data-Intelligence-Project/blob/main/images/Screenshot%20(162).png)
+   ![image 2](https://github.com/d-sutariya/AtliQ-Grands-Business-and-Data-Intelligence-Project/blob/main/images/Screenshot%20(163).png)
 
 ## Recommendations
 1. **Implement Dynamic Pricing**: Encourage the adoption of dynamic pricing to adjust room rates based on demand, competition, and other factors to optimize revenue.
