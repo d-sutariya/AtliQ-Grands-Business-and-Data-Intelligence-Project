@@ -21,8 +21,13 @@ The project was based on five CSV files containing relevant hotel and booking da
 
 ## Key Findings
 1. **Dynamic Pricing**: Some hotels are not implementing dynamic pricing, which is a major source of profit, as seen from ADR and RevPar.
-2. **Customer Ratings and Occupancy**: Hotels with lower average customer ratings in certain cities have lower occupancy rates. Focusing on improving ratings could significantly boost occupancy, following the Pareto 80/20 rule.
-3. **Website Pricing Strategy**: Hotels are selling rooms at the same price on their websites as on third-party platforms. Reducing prices on the hotel's own website could help avoid commission fees and increase direct bookings.
+   ![Image 1](https://github.com/d-sutariya/AtliQ-Grands-Business-and-Data-Intelligence-Project/blob/main/images/Screenshot%20(162).png)
+   
+3. **Customer Ratings and Occupancy**: Hotels with lower average customer ratings in certain cities have lower occupancy rates. Focusing on improving ratings could significantly boost occupancy, following the Pareto 80/20 rule.
+   
+5. **Website Pricing Strategy**: Hotels are selling rooms at the same price on their websites as on third-party platforms. Reducing prices on the hotel's own website could help avoid commission fees and increase direct bookings.
+
+   ![image 2](https://github.com/d-sutariya/AtliQ-Grands-Business-and-Data-Intelligence-Project/blob/main/images/Screenshot%20(162).png)
 
 ## Recommendations
 1. **Implement Dynamic Pricing**: Encourage the adoption of dynamic pricing to adjust room rates based on demand, competition, and other factors to optimize revenue.
