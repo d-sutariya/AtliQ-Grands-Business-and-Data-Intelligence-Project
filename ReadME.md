@@ -5,6 +5,8 @@ AtliQ Grands owns multiple five-star hotels across India and has been a key play
 
 As a data analyst, I was tasked with creating a dashboard, defining key metrics, and uncovering insights from historical data to help improve operational efficiency and guide data-driven decisions.
 
+![Overview Image](https://github.com/d-sutariya/AtliQ-Grands-Business-and-Data-Intelligence-Project/blob/main/images/Revenue%20Insights%20in%20Hospitality%20Domain_page-0001.jpg)
+
 ## Objective
 The primary objective of this project was to:
 - Enable data-driven decisions for AtliQ Grands’ revenue management team.
